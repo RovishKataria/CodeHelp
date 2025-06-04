@@ -1,0 +1,75 @@
+/* .box {
+    border: 1px solid black;
+    height: 200px;
+    width: 150px;
+    background-image: linear-gradient(red, blue);
+    background-image: linear-gradient(to right, red, blue);
+    background-image: linear-gradient(to left, red, blue);
+    background-image: linear-gradient(to bottom right, red 5%, blue 10%, green 50%);
+    background-image: linear-gradient(to bottom, rgba(255, 0, 0, 0), rgba(0, 0, 255, 1));
+}
+
+.mydiv {
+    border: 1px, solid, black;
+    height: 200px;
+    margin: 10px;
+    width: 100px;
+    background-image: radial-gradient(circle, red, blue, green);
+    background-image: radial-gradient(red 5%, blue 10%, green 50%);
+}
+
+.div2 {
+    border: 1px, solid, black;
+    margin: 20px;
+    height: 200px;
+    width: 200px;
+    background-image: conic-gradient(red 5deg, blue 10deg, green 50deg);
+}
+
+.box1 {
+    width: fit-content;
+    box-shadow: -1px -1px green, -1px 1px green, 1px -1px green, 1px 1px green;
+    box-shadow: 1px 1px 1px 20px green;
+} */
+
+div {
+    border: 1px solid black;
+}
+
+p {
+    background-color: red;
+    width: fit-content;
+}
+
+/* img {
+    position: relative;
+    top: 10px;
+    left: 10px;
+} */
+
+/* #tl {
+    position: absolute;
+}
+
+#tr {
+    position: absolute;
+    left: 550px;
+}
+
+#bl {
+    position: absolute;
+    top: 300px;
+}
+
+#br {
+    position: absolute;
+    top: 300px;
+    left: 520px;
+}
+
+#c {
+    position: absolute;
+    top: 150px;
+    left: 300px;
+} */
+
